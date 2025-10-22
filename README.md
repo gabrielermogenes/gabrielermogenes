@@ -42,7 +42,8 @@
 
 ###
 
-===
+---
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabrielermogenes/gabrielermogenes/output/snake.svg" alt="Snake animation" />
