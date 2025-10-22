@@ -41,7 +41,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/biellcitykz" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30"/> </a>
- <a href="https://www.linkedin.com/in/devgabrielermogenes" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-  badge&logo=linkedin&logoColor=white" height="30"/> </a>
+  <a href="https://www.linkedin.com/in/devgabrielermogenes" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a>
   <a href="mailto:gabrielermogenes134@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
 </div>
 
