@@ -1,3 +1,7 @@
+![banner](https://media.licdn.com/dms/image/v2/D4D16AQFAxPNE_Ao09g/profile-displaybackgroundimage-shrink_350_1400/B4DZdH3i1mGkAY-/0/1749257433935?e=1762387200&v=beta&t=VCZS8A60f1yWtfIKRDORQdXNs4br-nwAiPDj5rOBt7E)
+
+---
+
 <h2 align="center">Olá 👋! Sou o Gabriel, desenvolvedor Front-End apaixonado por criar interfaces modernas e experiências digitais incríveis</h2>
 
 ###
