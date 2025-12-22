@@ -1,6 +1,9 @@
-![banner](https://media.licdn.com/dms/image/v2/D4D16AQFAxPNE_Ao09g/profile-displaybackgroundimage-shrink_350_1400/B4DZdH3i1mGkAY-/0/1749257433935?e=1762387200&v=beta&t=VCZS8A60f1yWtfIKRDORQdXNs4br-nwAiPDj5rOBt7E)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+SEU_NOME_AQUI;I+study+SUA_AREA_DE_ESTUDO;I+have+great+enthusiasm+for+SUA_AREA_DE_INTERESSE;Be+Welcome!+👋🏾;and+never+stop+learning+OK!?)](https://git.io/typing-svg)
 
 ---
+
 
 <h2 align="center">Olá 👋! Sou o Gabriel, desenvolvedor Front-End apaixonado por criar interfaces modernas e experiências digitais incríveis</h2>
 
